@@ -1,1 +1,3 @@
-remote_theme: forty-jekyll-theme
+remote_theme: andrewbanchich/forty-jekyll-theme
+title: test
+description: [does this work?]
